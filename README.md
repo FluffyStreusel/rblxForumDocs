@@ -11,3 +11,7 @@ The reply button code:
 Where THREADID is the thread's ID, in the URL bar.
 
 If you change an unlocked thread's ID to a locked thread's ID, it will redirect you to the locked thread, not allowing you to respond to the locked thread.
+
+# Too lazy to label sections
+https://forum.roblox.com/Forum/Search/default.aspx - Is the forum search page
+*Search for threads and user's threads here.* Potential vulnerabilites.
