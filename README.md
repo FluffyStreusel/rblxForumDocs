@@ -10,3 +10,4 @@ The reply button code:
 `<a href="/Forum/AddPost.aspx?PostID=THREADID&amp;mode=flat" class="btn-control btn-control-medium verified-email-act">Add a Reply</a>`
 Where THREADID is the thread's ID, in the URL bar.
 
+If you change an unlocked thread's ID to a locked thread's ID, it will redirect you to the locked thread, not allowing you to respond to the locked thread.
